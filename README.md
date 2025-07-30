@@ -9,16 +9,15 @@ A clean, modern, and fully responsive portfolio website showcasing my work as a 
 - Smooth scrolling and CSS animations
 - Clean and modern UI
 - Contact form
-- Downloadable CV
 - Social media integration
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome Icons
 
-## 🌟 Sections
+##  Sections
 
 - Home/Hero
 - About Me
@@ -28,26 +27,23 @@ A clean, modern, and fully responsive portfolio website showcasing my work as a 
 - Interests
 - Contact Form
 
-## 🔧 Setup
+##  Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone [Kanda repo](https://github.com/oliver-kandagor/Kanda-Portfolio.git)
    ```
 
 2. Open `index.html` in your web browser
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
+##  Contact
 
 - Email: kandagoroliver2@gmail.com
 - Phone: +254 757 540 57
 - Location: Kabarnet, Baringo, Kenya
 
-## 🔗 Social Links
+##  Social Links
 
 - Facebook: [kandagoroliver](https://facebook.com/kandagoroliver)
 - Instagram: [_k.a.n.d.a](https://instagram.com/_k.a.n.d.a)
